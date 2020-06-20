@@ -56,4 +56,4 @@ IGNORE = None
 
 VIEW_TO_HASH = {}
 
-FLOORC_JSON_PATH = os.path.expanduser(os.path.join('~', '.floorc.json'))
+FLOORC_JSON_PATH = os.path.expanduser(os.path.join('~', '.config/floobits/floorc.json'))
