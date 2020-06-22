@@ -16,7 +16,7 @@ FLOOTTY_SAFE = True
 ALERT_ON_MSG = True
 LOG_TO_CONSOLE = False
 
-BASE_DIR = os.path.expanduser(os.path.join('~', 'floobits'))
+BASE_DIR = os.path.expanduser(os.path.join('~', '.local/share/floobits'))
 
 
 # Shared globals
